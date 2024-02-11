@@ -50,7 +50,7 @@ button_positions = {  # Creates a dictionary of all positions needed for monkeys
     "HOME_MENU_START": [842, 936],
     "EXPERT_SELECTION": [1333, 978],
     "RIGHT_ARROW_SELECTION": [1644, 436],
-    "DARK_CASTLE": [629, 413],  # ORIGINAL 720, 350 || winspy 960, 260
+    "DARK_CASTLE": [629, 400],  # ORIGINAL 720, 350 || winspy 960, 260
     "EASY_MODE": [629, 413],
     "STANDARD_GAME_MODE": [635, 585],
     "OVERWRITE_SAVE": [1140, 730],
